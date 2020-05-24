@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Karamele_Zana_Demo_Html.data.unityweb",
+"asmCodeUrl": "Karamele_Zana_Demo_Html.asm.code.unityweb",
+"asmMemoryUrl": "Karamele_Zana_Demo_Html.asm.memory.unityweb",
+"asmFrameworkUrl": "Karamele_Zana_Demo_Html.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
